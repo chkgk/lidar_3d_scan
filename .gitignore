@@ -1,0 +1,9 @@
+*.pyc
+*.p
+*.png
+combo.py
+combo_show.py
+draw_mac.py
+ltest.py
+*._*
+.DS_Store
